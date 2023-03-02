@@ -13,7 +13,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Lista de Tarefas** é uma landing page que foi criada dentro do curso [Começando com Angular, Balta.io](https://balta.io/cursos/comecando-com-angular) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Lista de Tarefas** é uma landing page que foi criada dentro do curso [Começando com Angular](https://balta.io) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
