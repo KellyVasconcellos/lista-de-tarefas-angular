@@ -13,16 +13,16 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Lista de Tarefas** é uma landing page que foi criada dentro do curso [Começando com Angular](https://balta.io) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Lista de Tarefas** é uma landing page que foi criada dentro do curso [Começando com Angular](https://balta.io) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
@@ -33,9 +33,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/lista-de-tarefas.git
+    $ git clone https://github.com/KellyVasconcellos/lista-de-tarefas-angular.git
     # Entrar no diretório
-    $ cd lista-de-tarefas
+    $ cd lista-de-tarefas-angular
 ```
 
 ---
